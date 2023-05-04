@@ -1,0 +1,7 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+    <Script file="altmanager.lua"/>
+    <Script file="friends.lua"/>
+    <Script file="guild.lua"/>
+    <Script file="time.lua"/>
+    <Script file="worldquests.lua"/>
+</Ui>

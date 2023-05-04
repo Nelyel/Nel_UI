@@ -1,0 +1,7 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+    <Script file="altmanager.lua"/>
+    <Script file="friendlist.lua"/>
+    <Script file="misc.lua"/>
+
+    <Include file="datatexts\load_datatexts.xml"/>
+</Ui>

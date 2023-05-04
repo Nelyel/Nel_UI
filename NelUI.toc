@@ -1,0 +1,15 @@
+## Interface: 100000
+## Title: |cFFC41F3BNel|r|cFFFFFFFFUI|r
+## Author: Nelyel - Kazzak EU
+## Version: 0.1
+## RequiredDeps: ElvUI
+## SavedVariables: NelDB
+
+libs\load_libs.xml
+
+init.lua
+media\media.lua
+
+core\load_core.xml
+
+modules\load_modules.xml
